@@ -62,6 +62,5 @@ public class Menu {
             this.base = "EUR";
             this.target = "USD";
         }
-
     }
 }
