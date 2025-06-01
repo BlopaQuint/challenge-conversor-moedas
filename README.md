@@ -1,7 +1,7 @@
 # CODEMO - Conversor de Moedas
 
 ## 📌 Sobre o projeto
-Este projeto faz parte do **Oracle Next Education**, um challenge do curso de **Desenvolvedor Back-end**. Ele implementa um **Conversor de Moedas**, permitindo a conversão de valores entre diferentes moedas com base em uma API de taxas de câmbio.
+Este projeto, desenvolvido por mim, faz parte do **Oracle Next Education**, um challenge do curso de **Desenvolvedor Back-end**. Ele implementa um **Conversor de Moedas**, permitindo a conversão de valores entre diferentes moedas com base em uma API de taxas de câmbio.
 
 ## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido utilizando:
