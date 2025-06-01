@@ -1,6 +1,5 @@
 import com.google.gson.Gson;
 
-import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
@@ -9,7 +8,7 @@ import java.util.Scanner;
 
 public class ConversorDeMoeda {
 
-    public Moeda buscaDados(Menu meuMenu) throws IOException, InterruptedException {
+    public Moeda buscaDados(Menu meuMenu) {
 
         String base = meuMenu.getBase();
         String target = meuMenu.getTarget();
