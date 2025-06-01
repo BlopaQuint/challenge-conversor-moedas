@@ -33,7 +33,7 @@ public class Menu {
                 6) Euro [EUR] → Dólar Americano [USD]
                 """);
 
-        System.out.println("Digite opção válida (1 - 6)");
+        System.out.println("Digite uma opção válida (1 - 6)");
         opcao = scanner.nextInt();
 
         while (opcao < 1 || opcao > 6) {
