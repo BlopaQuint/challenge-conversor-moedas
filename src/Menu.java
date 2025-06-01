@@ -14,13 +14,16 @@ public class Menu {
     }
 
     public void exibirMenu() {
+
         Scanner scanner = new Scanner(System.in);
         int opcao;
+
         System.out.println("""
                 *****************************************
                 \nBem-vindo ao CODEMO - Conversor de Moedas
                 \n*****************************************
                 """);
+
         System.out.println("""
                 1) Real Brasileiro [BRL] → Dólar Americano [USD]
                 2) Dólar Americano [USD] → Real Brasileiro [BRL]
@@ -29,6 +32,7 @@ public class Menu {
                 5) Dólar Americano [USD] → Euro [EUR]
                 6) Euro [EUR] → Dólar Americano [USD]
                 """);
+
         System.out.println("Digite opção válida (1 - 6)");
         opcao = scanner.nextInt();
 
